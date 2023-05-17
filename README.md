@@ -2,7 +2,7 @@
 A simple discord bot equiped with slash command & event handlers to start your journey.
 Available commands:-
 `
-/avatar:- shows users avatar.
+/avatar:- shows users avatar.\n
 /option:- echo backs a message.
 /ping:- replies with pong.
 /prune:- deletes a specfic amount of messages.
@@ -30,7 +30,7 @@ Status name can be changed by changing the `SCRIBLLING THINGS` with whatever you
 
 Change the status property if you know what you are doing. status can be chnaged into 'dnd', 'idle', 'online' and 'invinsible.
 
-If you want to chnage your activity type of your bot go into ready.js in events folder and change it.
+If you want to change your activity type of your bot go into ready.js in events folder and change it.
 
 # Registering Slash Comannds And Deleting All Your Commands.
 To register all of your slash commands.
