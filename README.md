@@ -2,12 +2,12 @@
 A simple discord bot equiped with slash command & event handlers to start your journey.
 Available commands:-
 `
-/avatar:- shows users avatar.\n
-/option:- echo backs a message.
-/ping:- replies with pong.
-/prune:- deletes a specfic amount of messages.
-/server:- shows server info.
-/user:- shows user info.
+/avatar:- shows users avatar.  
+/option:- echo backs a message.  
+/ping:- replies with pong.  
+/prune:- deletes a specfic amount of messages.  
+/server:- shows server info.  
+/user:- shows user info.  
 `
 
 # Forking the github respository
