@@ -1,5 +1,5 @@
 # DiscordBot-Slash-Commands
-A simple discord bot equiped with slash command & event handlers to start your journey.
+A simple discord bot equiped with slash command & event handlers to start your journey.  
 Available commands:-
 `
 /avatar:- shows users avatar.  
