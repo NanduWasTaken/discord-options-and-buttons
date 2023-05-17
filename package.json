@@ -1,0 +1,23 @@
+{
+  "name": "discordslashbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NanduWasTaken/DiscordSlashBot.git"
+  },
+  "keywords": [],
+  "author": "NanduWasTaken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NanduWasTaken/DiscordSlashBot/issues"
+  },
+  "homepage": "https://github.com/NanduWasTaken/DiscordSlashBot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
