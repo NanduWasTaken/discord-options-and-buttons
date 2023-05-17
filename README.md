@@ -11,7 +11,8 @@ Available commands:-
 
 
 # Forking the github respository
-
+Type this into the terminal
+`git clone https://github.com/NanduWasTaken/DiscordBot-Slash-Commands.git`
 
 # Setting Up Config Files
 ```json
